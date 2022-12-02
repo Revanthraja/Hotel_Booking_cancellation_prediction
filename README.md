@@ -1,1 +1,1 @@
-# Hotel_Booking_cancelation-prediction
+# Hotel_Booking_cancellation_prediction
